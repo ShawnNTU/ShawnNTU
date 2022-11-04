@@ -17,15 +17,20 @@ there is a "story" behind...
 
 Here I put some notes of what I've learned and other things
 
-:::success
 Also I created a team for sharing notes [**Check This**](https://hackmd.io/@NTU-NYCU-NTHU)
-:::
 
+---
 
 ## Languages or Tools familiar with
 
-![image alt](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg =50x)![image alt](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg =50x)![image alt](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =50x)![image alt](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =50x)![image alt](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg =50x)![image alt](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg =50x)![image alt](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg =50x)![image alt](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg =50x)
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
 
 
