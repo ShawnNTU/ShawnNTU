@@ -8,8 +8,9 @@ there is a "story" behind...
 
 ## I’m currently learning
 
-- AI、Machine Learning
-- Deep Learning
+- AI
+    - ML, Expert system, Genetic algorithm
+    - Deep Learning
 - Quantumm 
 - Algorith and Data structure
 
